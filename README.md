@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Born in São Joaquim da Barra, a charming city in the interior of São Paulo, I embarked on my coding journey at the age of 13. A Python enthusiast, I'm always seeking professional improvement. My philosophy? The key to success is relentless effort.
+
 
 ## 🎓 Education
 
